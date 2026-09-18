@@ -26,5 +26,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Modern_building_rises_from_const\u2026_20260917204001.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2196830471251648"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
