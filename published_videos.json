@@ -166,5 +166,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Skyscraper_construction_time_lapse_20260916233810.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1916933229281166"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
