@@ -222,5 +222,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Residential_home_construction_ti\u2026_20260922154910.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1122345673556262"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
