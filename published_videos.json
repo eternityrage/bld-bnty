@@ -460,5 +460,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Craftsman_house_being_built_20260921114824.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2178406879684124"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
