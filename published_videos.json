@@ -586,5 +586,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Image Creation Batches.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1707373787024363"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
