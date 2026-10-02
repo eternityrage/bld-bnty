@@ -600,5 +600,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Apartment_building_rises_from_site_20260917203950.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2002217080440165"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
