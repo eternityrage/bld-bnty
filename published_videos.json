@@ -684,5 +684,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "House_construction_time-lapse_20260922152101.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1604761967248327"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
