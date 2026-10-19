@@ -1104,5 +1104,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Luxury_contemporary_villa_being_\u2026_20260916233932.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1862293158093989"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
