@@ -1216,5 +1216,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Building_modern_timber_cabin_20261027021037.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2382549142556008"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
