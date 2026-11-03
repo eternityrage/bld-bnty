@@ -32,7 +32,7 @@ def generate_caption():
             'https://text.pollinations.ai/',
             json={
                 'messages': [{'role': 'user', 'content': prompt}],
-                'model': 'openai',
+                'model': 'openai/gpt-5.4-nano',
                 'seed': random.randint(1, 999999)
             },
             headers={'Authorization': f'Bearer {pollinations_key}'},
