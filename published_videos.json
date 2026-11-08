@@ -1384,5 +1384,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Building_coastal_stilt_home_20261026042703.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1751409772583882"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
