@@ -1482,5 +1482,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Skyscraper_building_construction\u2026_20261026042703.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2254288755302768"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
