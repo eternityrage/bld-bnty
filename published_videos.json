@@ -1594,5 +1594,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Mediterranean_villa_being_constr\u2026_20261027021037.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1531753922338647"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
