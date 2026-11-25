@@ -1608,5 +1608,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Building_Scandinavian_minimalist\u2026_f4646bbe.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1162607389600415"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
