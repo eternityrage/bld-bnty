@@ -1650,5 +1650,18 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "Craftsman_bungalow_house_being_b\u2026_466fb886.mp4",
+    "results": [
+      {
+        "status": "failed",
+        "platform": "facebook"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
